@@ -7,7 +7,6 @@
 int main(void)
 {
 	char c;
-	
 	int e;
 
 	c = 'a';
